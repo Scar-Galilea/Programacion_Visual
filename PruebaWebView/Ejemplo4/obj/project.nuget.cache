@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kd1afsFXi6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UNSIJ\\source\\repos\\PruebaWebView\\Ejemplo4\\PruebaWebView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UNSIJ\\.nuget\\packages\\hinetcloud.interop.wmplib\\20.7.2.10\\hinetcloud.interop.wmplib.20.7.2.10.nupkg.sha512",
+    "C:\\Users\\UNSIJ\\.nuget\\packages\\microsoft.web.webview2\\1.0.3967.48\\microsoft.web.webview2.1.0.3967.48.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"HiNetCloud.Interop.WMPLib 20.7.2.10\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net10.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\UNSIJ\\source\\repos\\PruebaWebView\\Ejemplo4\\PruebaWebView.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\UNSIJ\\source\\repos\\PruebaWebView\\Ejemplo4\\PruebaWebView.csproj",
+      "libraryId": "HiNetCloud.Interop.WMPLib",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}

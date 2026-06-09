@@ -1,0 +1,6 @@
+C:\Users\UNSIJ\source\repos\Practica5\Practica5\obj\Debug\net10.0-windows\Practica5.Form1.resources
+C:\Users\UNSIJ\source\repos\Practica5\Practica5\obj\Debug\net10.0-windows\Practica5.csproj.GenerateResource.cache
+C:\Users\UNSIJ\source\repos\Practica5\Practica5\obj\Debug\net10.0-windows\Practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNSIJ\source\repos\Practica5\Practica5\obj\Debug\net10.0-windows\Practica5.AssemblyInfoInputs.cache
+C:\Users\UNSIJ\source\repos\Practica5\Practica5\obj\Debug\net10.0-windows\Practica5.AssemblyInfo.cs
+C:\Users\UNSIJ\source\repos\Practica5\Practica5\obj\Debug\net10.0-windows\Practica5.csproj.CoreCompileInputs.cache

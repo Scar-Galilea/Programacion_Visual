@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form2.cs",
+              "RelativeDocumentMoniker": "Practica5\\Vista\\Form2.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica5\\Vista\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T19:01:03.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
