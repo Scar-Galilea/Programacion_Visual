@@ -10,5 +10,6 @@ namespace ConexionBD.modelo{
         public required string Correo { get; set; }
         public required string Contrasenia { get; set; }
         public string? Rol { get; internal set; }
+        public string PasswordHash { get; internal set; }
     }
 }

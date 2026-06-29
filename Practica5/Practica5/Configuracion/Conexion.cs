@@ -7,7 +7,7 @@ namespace ConexionBD.configuracion
 {
 
     internal class Conexion{
-        private String cadena = "server=localhost;database=escuela;uid=admin;pwd=admin;";
+        private String cadena = "server=localhost;database=sistema;uid=admin;pwd=admin;";
         public MySqlConnection ObtenerConexion(){
             return new MySqlConnection(cadena);
         }

@@ -21,14 +21,19 @@ namespace Practica5.controlador
                 return $"{saltBase64};{hashBase64}";
             }
         }
+
         public static bool VerificarPassword(string password, string hashAlmacenado)
         {
+            if (string.IsNullOrEmpty(hashAlmacenado)) return false;
+
             try
             {
                 string[] partes = hashAlmacenado.Split(';');
                 if (partes.Length != 2) return false;
+
                 byte[] salt = Convert.FromBase64String(partes[0]);
                 byte[] hashOriginal = Convert.FromBase64String(partes[1]);
+
                 using (var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 65536, HashAlgorithmName.SHA256))
                 {
                     byte[] hashNuevo = pbkdf2.GetBytes(32);

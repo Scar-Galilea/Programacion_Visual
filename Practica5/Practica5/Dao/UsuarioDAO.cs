@@ -1,38 +1,38 @@
-﻿using ConexionBD.configuracion;
-using ConexionBD.modelo;
+﻿using System;
 using MySql.Data.MySqlClient;
-using MySqlConnector;
-using System;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using System.Text;
-using MySqlCommand = MySql.Data.MySqlClient.MySqlCommand;
-using MySqlConnection = MySql.Data.MySqlClient.MySqlConnection;
-using MySqlDataReader = MySql.Data.MySqlClient.MySqlDataReader;
+using ConexionBD.configuracion;
+using ConexionBD.modelo;
 
 namespace Practica5.Dao
 {
     internal class UsuarioDAO
     {
         private Conexion conexion = new Conexion();
-
         public Usuario ObtenerPorUsuario(string usuario)
         {
-            using(MySqlConnection cn = conexion.ObtenerConexion()){
-                string sql = "SELECT * FROM Usuario WHERE Correo = @Usuario";
-                MySqlCommand cdm = new MySqlCommand(sql, cn);
-                cdm.Parameters.AddWithValue("@Usuario",usuario);
-                cn.Open();
-                MySqlDataReader dr = cdm.ExecuteReader();
-                if (dr.Read()){
-                    return new Usuario{
-                        Id = Convert.ToInt32(dr["IdUsuario"]),
-                        Nombre = dr["Nombre"].ToString(),
-                        Apellido = dr["Apellido"].ToString(),
-                        Correo = dr["Usuario"].ToString(),
-                        Contrasenia = dr["PasswordHash"].ToString(),
-                        Rol = dr["Rol"].ToString()
-                    };
+            string sql = "SELECT * FROM Usuario WHERE Correo = @Usuario";
+            using (MySqlConnection cn = conexion.ObtenerConexion())
+            {
+                using (MySqlCommand cmd = new MySqlCommand(sql, cn))
+                {
+                    cmd.Parameters.AddWithValue("@Usuario", usuario);
+
+                    cn.Open(); 
+
+                    using (MySqlDataReader dr = cmd.ExecuteReader())
+                    {
+                        if (dr.Read())
+                        {
+                            return new Usuario
+                            {
+                                Id = Convert.ToInt32(dr["id_usuarios"]),
+                                Nombre = dr["nombre"].ToString(),
+                                Apellido = dr["apellido"].ToString(),
+                                Correo = dr["correo"].ToString(),     
+                                Contrasenia = dr["contrasenia"].ToString(),
+                            };
+                        }
+                    }
                 }
                 return null;
             }

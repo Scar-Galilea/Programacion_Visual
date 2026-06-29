@@ -30,10 +30,10 @@
         {
             label3 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
-            Usuario = new TextBox();
+            passwordtext = new TextBox();
+            Usuariotext = new TextBox();
             label1 = new Label();
-            button1 = new Button();
+            button1IniciarSesion = new Button();
             SuspendLayout();
             // 
             // label3
@@ -54,22 +54,22 @@
             label2.TabIndex = 10;
             label2.Text = "Usuaio";
             // 
-            // textBox1
+            // passwordtext
             // 
-            textBox1.Location = new Point(330, 243);
-            textBox1.Name = "textBox1";
-            textBox1.PlaceholderText = "Ingrese contraseña";
-            textBox1.Size = new Size(141, 23);
-            textBox1.TabIndex = 9;
-            textBox1.UseSystemPasswordChar = true;
+            passwordtext.Location = new Point(330, 243);
+            passwordtext.Name = "passwordtext";
+            passwordtext.PlaceholderText = "Ingrese contraseña";
+            passwordtext.Size = new Size(141, 23);
+            passwordtext.TabIndex = 9;
+            passwordtext.UseSystemPasswordChar = true;
             // 
-            // Usuario
+            // Usuariotext
             // 
-            Usuario.Location = new Point(330, 182);
-            Usuario.Name = "Usuario";
-            Usuario.PlaceholderText = "Ingrese usuaio:";
-            Usuario.Size = new Size(141, 23);
-            Usuario.TabIndex = 8;
+            Usuariotext.Location = new Point(330, 182);
+            Usuariotext.Name = "Usuariotext";
+            Usuariotext.PlaceholderText = "Ingrese usuaio:";
+            Usuariotext.Size = new Size(141, 23);
+            Usuariotext.TabIndex = 8;
             // 
             // label1
             // 
@@ -80,14 +80,15 @@
             label1.TabIndex = 7;
             label1.Text = "Iniciar Sesión";
             // 
-            // button1
+            // button1IniciarSesion
             // 
-            button1.Location = new Point(348, 290);
-            button1.Name = "button1";
-            button1.Size = new Size(108, 23);
-            button1.TabIndex = 6;
-            button1.Text = "Iniciar Sesión";
-            button1.UseVisualStyleBackColor = true;
+            button1IniciarSesion.Location = new Point(348, 290);
+            button1IniciarSesion.Name = "button1IniciarSesion";
+            button1IniciarSesion.Size = new Size(108, 23);
+            button1IniciarSesion.TabIndex = 6;
+            button1IniciarSesion.Text = "Iniciar Sesión";
+            button1IniciarSesion.UseVisualStyleBackColor = true;
+            button1IniciarSesion.Click += button1IniciarSesionClick;
             // 
             // Form1
             // 
@@ -97,10 +98,10 @@
             ClientSize = new Size(800, 450);
             Controls.Add(label3);
             Controls.Add(label2);
-            Controls.Add(textBox1);
-            Controls.Add(Usuario);
+            Controls.Add(passwordtext);
+            Controls.Add(Usuariotext);
             Controls.Add(label1);
-            Controls.Add(button1);
+            Controls.Add(button1IniciarSesion);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
@@ -112,9 +113,9 @@
 
         private Label label3;
         private Label label2;
-        private TextBox textBox1;
-        private TextBox Usuario;
+        private TextBox passwordtext;
+        private TextBox Usuariotext;
         private Label label1;
-        private Button button1;
+        private Button button1IniciarSesion;
     }
 }

@@ -12,7 +12,7 @@ namespace Practica5.Modelo
             get;
             set;
         }
-        public static bool Activa => UsuarioActual == null;
+        public static bool Activa => UsuarioActual != null;
 
         public static void CerrarSesion()
         {

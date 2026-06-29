@@ -1,3 +1,5 @@
+using Practica5.Vista;
+
 namespace Practica5
 {
     internal static class Program

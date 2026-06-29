@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|C:\\Users\\UNSIJ\\source\\repos\\Practica5\\practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\vista\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\controlador\\logincontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\controlador\\logincontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\modelo\\sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\modelo\\sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\configuracion\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\configuracion\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\configuracion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\configuracion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|c:\\users\\unsij\\source\\repos\\practica5\\practica5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EF929-9E0F-C1E6-738B-650C7E2AB042}|Practica5\\Practica5.csproj|solutionrelative:practica5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,14 +62,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "SesionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Modelo\\SesionUsuario.cs",
+              "RelativeDocumentMoniker": "Practica5\\Modelo\\SesionUsuario.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Modelo\\SesionUsuario.cs",
+              "RelativeToolTip": "Practica5\\Modelo\\SesionUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T17:31:34.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica5\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form1.cs",
+              "RelativeToolTip": "Practica5\\Vista\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T17:30:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form2.cs",
+              "RelativeDocumentMoniker": "Practica5\\Vista\\Form2.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form2.cs",
+              "RelativeToolTip": "Practica5\\Vista\\Form2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T17:14:29.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Configuracion\\Conexion.cs",
+              "RelativeDocumentMoniker": "Practica5\\Configuracion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Configuracion\\Conexion.cs",
+              "RelativeToolTip": "Practica5\\Configuracion\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:55:01.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Program.cs",
+              "RelativeDocumentMoniker": "Practica5\\Program.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Program.cs",
+              "RelativeToolTip": "Practica5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:53:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Configuracion\\Contrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Practica5\\Configuracion\\Contrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Configuracion\\Contrase\u00F1a.cs",
+              "RelativeToolTip": "Practica5\\Configuracion\\Contrase\u00F1a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:20:37.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Dao\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "Practica5\\Dao\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Dao\\UsuarioDAO.cs",
+              "RelativeToolTip": "Practica5\\Dao\\UsuarioDAO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:13:41.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginControlador.cs",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Controlador\\LoginControlador.cs",
+              "RelativeDocumentMoniker": "Practica5\\Controlador\\LoginControlador.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Controlador\\LoginControlador.cs",
+              "RelativeToolTip": "Practica5\\Controlador\\LoginControlador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:11:07.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form2.cs",
               "RelativeDocumentMoniker": "Practica5\\Vista\\Form2.cs",
               "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "Practica5\\Vista\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T19:01:03.94Z",
+              "WhenOpened": "2026-06-10T15:52:28.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica5\\Vista\\Form1.cs",
+              "ToolTip": "C:\\Users\\UNSIJ\\source\\repos\\Practica5\\Practica5\\Vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica5\\Vista\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:52:24.813Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
